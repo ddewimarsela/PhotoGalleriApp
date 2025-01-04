@@ -15,7 +15,7 @@ const App = () => {
           <p className='studentId'>FS10563528</p>
         </div>
         <Link to='/'>Home</Link>
-        <Link to='/photos'>My Photos</Link>
+        <Link to='/photos'>Photo ku </Link>
         <Link to='/add'>Add Photo</Link>
       </div>
 
